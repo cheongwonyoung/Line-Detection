@@ -4,7 +4,10 @@
 => 시각장애인이 보호자, 안내견, 흰 지팡이의 도움 없이 혼자서 걷기 운동을 할 수 있으면 좋을거 같다는 생각을 시작으로 자율주행 차량이 차선을 탐지하는 것을 응용하여 시각장애인에게 현재 레일에서 향해야 하는 방향을 알려주어 홀로 걷기 운동을 할 수 있게 도와주는 프로그램.
 ### ▶핵심 코드 설명
 ☞원하는 영역 mask
-![image](https://user-images.githubusercontent.com/86768006/128275442-6bc358f5-331b-488c-acd7-ddc2f6a416f1.png)
+
+
+![image](https://user-images.githubusercontent.com/86768006/128275507-043c5fae-97bb-414b-a42b-c0605f223d65.png)
+
 
 ☞중간 처리 과정
 
