@@ -7,4 +7,5 @@
 ![image](https://user-images.githubusercontent.com/86768006/128275442-6bc358f5-331b-488c-acd7-ddc2f6a416f1.png)
 
 ☞중간 처리 과정
+
 ☞직선 그리기, 방향 알려주기
